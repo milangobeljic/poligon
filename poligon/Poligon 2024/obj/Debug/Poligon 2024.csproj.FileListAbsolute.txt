@@ -1,0 +1,8 @@
+C:\Users\Ucenik.INFORMATIKA_6_7\Downloads\Poligon-2024-master\Poligon-2024-master\Poligon 2024\bin\Debug\Poligon 2024.exe.config
+C:\Users\Ucenik.INFORMATIKA_6_7\Downloads\Poligon-2024-master\Poligon-2024-master\Poligon 2024\bin\Debug\Poligon 2024.exe
+C:\Users\Ucenik.INFORMATIKA_6_7\Downloads\Poligon-2024-master\Poligon-2024-master\Poligon 2024\bin\Debug\Poligon 2024.pdb
+C:\Users\Ucenik.INFORMATIKA_6_7\Downloads\Poligon-2024-master\Poligon-2024-master\Poligon 2024\obj\Debug\Poligon 2024.csproj.AssemblyReference.cache
+C:\Users\Ucenik.INFORMATIKA_6_7\Downloads\Poligon-2024-master\Poligon-2024-master\Poligon 2024\obj\Debug\Poligon 2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik.INFORMATIKA_6_7\Downloads\Poligon-2024-master\Poligon-2024-master\Poligon 2024\obj\Debug\Poligon 2024.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik.INFORMATIKA_6_7\Downloads\Poligon-2024-master\Poligon-2024-master\Poligon 2024\obj\Debug\Poligon 2024.exe
+C:\Users\Ucenik.INFORMATIKA_6_7\Downloads\Poligon-2024-master\Poligon-2024-master\Poligon 2024\obj\Debug\Poligon 2024.pdb
